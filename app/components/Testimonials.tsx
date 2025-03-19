@@ -77,7 +77,7 @@ export function Testimonials() {
               </CardHeader>
               <CardContent>
                 <p className="text-lg text-gray-700 italic">
-                  "{testimonial.testimonial}"
+                  {testimonial.testimonial}
                 </p>
               </CardContent>
             </Card>
